@@ -1,0 +1,13 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.2.1 (June 2018)
+# Pipeline mode:   SEARCH
+# Query file:      transporter_refs.hmm
+# Target file:     /afs/nd.edu/user32/yluo3/exercise11/Biocomp-Fall2018-181116-Exercise11/proteomes/Verrucomicrobia.fasta
+# Option settings: /afs/nd.edu/user32/yluo3/local/bin/hmmsearch --tblout resultshmm.txt transporter_refs.hmm /afs/nd.edu/user32/yluo3/exercise11/Biocomp-Fall2018-181116-Exercise11/proteomes/Verrucomicrobia.fasta 
+# Current dir:     /afs/nd.edu/user32/yluo3/exercise11/Biocomp-Fall2018-181116-Exercise11/gene_sequences
+# Date:            Mon Nov 26 15:18:55 2018
+# [ok]

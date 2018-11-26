@@ -1,0 +1,16 @@
+/afs/nd.edu/user32/yluo3/exercise11/Biocomp-Fall2018-181116-Exercise11/proteomes/Arthrobacter.fasta
+0
+/afs/nd.edu/user32/yluo3/exercise11/Biocomp-Fall2018-181116-Exercise11/proteomes/Bacillus.fasta
+1
+/afs/nd.edu/user32/yluo3/exercise11/Biocomp-Fall2018-181116-Exercise11/proteomes/Clostridium.fasta
+0
+/afs/nd.edu/user32/yluo3/exercise11/Biocomp-Fall2018-181116-Exercise11/proteomes/Flavobacterium.fasta
+1
+/afs/nd.edu/user32/yluo3/exercise11/Biocomp-Fall2018-181116-Exercise11/proteomes/Limnohabitans.fasta
+1
+/afs/nd.edu/user32/yluo3/exercise11/Biocomp-Fall2018-181116-Exercise11/proteomes/Rhizobium.fasta
+0
+/afs/nd.edu/user32/yluo3/exercise11/Biocomp-Fall2018-181116-Exercise11/proteomes/Roseobacter.fasta
+1
+/afs/nd.edu/user32/yluo3/exercise11/Biocomp-Fall2018-181116-Exercise11/proteomes/Verrucomicrobia.fasta
+0
